@@ -6,6 +6,6 @@ public class HolaMundo {
 		/*De esta forma se puede comentar
 		 * en más líneas
 		 */
-		System.out.println("adios mun+fghjfghjkdghdo");
+		System.out.println("adios mun+tyhrhrtjhghjfghjkdghdo");
 	}
 }
